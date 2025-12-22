@@ -102,7 +102,7 @@
             "category": "News",
             "status": "Working",
             "logo": "",
-            "referrer": ""
+            "referrer": "https://live.geo.tv/"
         },
         {
             "name": "Geo Tv",
@@ -169,20 +169,12 @@
             "referrer": ""
         },
         {
-            "name": " News",
-            "stream_url": "https://tapmadlive.akamaized.net/tapmadold/bbcnews.smil/playlist.m3u8?",
-            "category": "News",
-            "status": "Working",
-            "logo": "",
-            "referrer": ""
-        },
-        {
             "name": " cartoon network",
             "stream_url": "https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?",
             "category": "Kids",
             "status": "Working",
             "logo": "",
-            "referrer": ""
+            "referrer": "https://www.tapmad.com/watch/cartoon-network-urdu/11491"
         },
         {
             "name": " Animal Planet",
@@ -260,7 +252,7 @@
             "name": " green tv",
             "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAyOjAzOjUyIEFNJmhhc2hfdmFsdWU9Y3B4VE9aa0NRKzRXTWNwNzNOaVU5UT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8",
             "category": "Entertainment",
-            "status": "Dead",
+            "status": "Working",
             "logo": "",
             "referrer": ""
         },
@@ -287,6 +279,94 @@
             "status": "Working",
             "logo": "",
             "referrer": "https://dunyanews.tv/live/"
+        },
+        {
+            "name": "Madni Channel",
+            "stream_url": "https://tapmadlive.akamaized.net/tapmadold/madani.smil/playlist.m3u8",
+            "category": "Islamic",
+            "status": "Working",
+            "logo": "c:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\logos\\logo_1766387093.jpg",
+            "referrer": "https://www.tapmad.com/watch/madani-channel/128881"
+        },
+        {
+            "name": "AUR TV",
+            "stream_url": "https://tapmadlive.akamaized.net/tapmadold/Aurlife.smil/chunklist_w597033341_b748000_slEng.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://www.tapmad.com/watch/aur-tv/168181"
+        },
+        {
+            "name": "MAKKAH TV",
+            "stream_url": "https://tapmadlive.akamaized.net/tapmadold/makkah.smil/chunklist_w1020619531_b1248000_slEng.m3u8",
+            "category": "Islamic",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://www.tapmad.com/watch/makkah/1371"
+        },
+        {
+            "name": "MADINA TV",
+            "stream_url": "https://tapmadlive.akamaized.net/tapmadold/madina.smil/chunklist_w66903208_b1248000_slENG.m3u8",
+            "category": "Islamic",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://www.tapmad.com/watch/madina/1361"
+        },
+        {
+            "name": "CARTOON NETWORK",
+            "stream_url": "https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/chunklist_w8628560_b748000_slEng.m3u8",
+            "category": "Kids",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://www.tapmad.com/watch/cartoon-network-urdu/11491"
+        },
+        {
+            "name": "PEACE TV  ENG",
+            "stream_url": "https://aryqtv.aryzap.com/3532a811a36183fba31430667219e3a2/694a43fb/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_360p.m3u8?isSubM3u8=1",
+            "category": "Islamic",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://live.aryqtv.tv/"
+        },
+        {
+            "name": "PEACE TV URDU",
+            "stream_url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v1a1/mono.m3u8?q=auto&sid=5pobucd-x0-kIVdQ057Olw&bvr_flags=1&bvr_ch=PeaceTvUrdu&bvr_bw=5870000",
+            "category": "Islamic",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://www.peacetv.tv/en/live-tv?live-channel=169575"
+        },
+        {
+            "name": "SONY MOVIES",
+            "stream_url": "https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8",
+            "category": "Movies",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/sony-movies/"
+        },
+        {
+            "name": "STAR GOLD",
+            "stream_url": "https://mrzplayin.fun/roarzon/stream.php?id=3eef0c9777e4ffc85045bb13ffbf12fb&e=.m3u8",
+            "category": "Movies",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/star-gold/"
+        },
+        {
+            "name": "SONY BBC EARTH",
+            "stream_url": "https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8",
+            "category": "Uncategorized",
+            "status": "Dead",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/sony-bbc-earth/"
+        },
+        {
+            "name": "WWE NETWORK",
+            "stream_url": "https://fl7.moveonjoy.com/WWE/tracks-v1a1/mono.ts.m3u8",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/wwe-network/"
         }
     ]
 }
