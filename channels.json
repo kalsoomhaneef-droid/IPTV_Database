@@ -1,0 +1,292 @@
+{
+    "channels": [
+        {
+            "name": "ARY DIgital",
+            "stream_url": "https://arydigital.aryzap.com/8e6b313dea2a66de7a5aad472dc67673/69491b29/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_480p.m3u8?uuid=8b039c92-61be-42f4-8ad1-4736e45407b3&isSubM3u8=1",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://live.arydigital.tv/"
+        },
+        {
+            "name": "Colors",
+            "stream_url": "https://cdn.stmify.com/out/v1/COLORS_HD/index.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/colors-tv/"
+        },
+        {
+            "name": "Colors HD",
+            "stream_url": "https://cdn.stmify.com/out/v1/COLORS_HD/tracks-v1a1/mono.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/colors-tv/"
+        },
+        {
+            "name": "ZEE HD",
+            "stream_url": "https://cdn.stmify.com/out/v1/SONY_ENTERTAINMENT_TELEVISION_HD/index.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/sony-entertainment-television/"
+        },
+        {
+            "name": "ZEE Tv",
+            "stream_url": "https://cdn.stmify.com/out/v1/SONY_ENTERTAINMENT_TELEVISION_HD/tracks-v1a1/mono.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/sony-entertainment-television/"
+        },
+        {
+            "name": "Star Plus HD",
+            "stream_url": "https://ayna.linkchur.top/apis/ayna/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4&e=.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/starplus/"
+        },
+        {
+            "name": "Star Plus",
+            "stream_url": "https://ayna.linkchur.top/apis/ayna/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4&chunks=tracks-v1a1%2Fmono.ts.m3u8%3Fe%3D1766320112%26token%3D15d17b23197290cff1da912c50e99b95%26u%3D8272bade-b8e1-44a0-98aa-04573b82f8d8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/starplus/"
+        },
+        {
+            "name": "SONY TEN2",
+            "stream_url": "https://cdn.stmify.com/out/v1/SONY_TEN_2_HD/index.m3u8",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.site/live/sony-ten-2/"
+        },
+        {
+            "name": "SONY TEN2 HD",
+            "stream_url": "https://cdn.stmify.com/out/v1/SONY_TEN_2_HD/tracks-v1a1/mono.ts.m3u8",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.site/live/sony-ten-2/"
+        },
+        {
+            "name": "NICK",
+            "stream_url": "https://onezoo.net/leo/live.php?id=545&format=.m3u8",
+            "category": "Kids",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://oxolive.com/live/nick/"
+        },
+        {
+            "name": "ANIMAL PLANET INT",
+            "stream_url": "https://fl1.moveonjoy.com/Animal_Planet/index.m3u8",
+            "category": "Documentary",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://stmify.com/live-tv/animal-planet/"
+        },
+        {
+            "name": "ARY NEWS",
+            "stream_url": "https://arynews.aryzap.com/62a6980a7ee432aa82fbd430ae8e744e/69492b26/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8?uuid=8d0d88af-34a8-4ee3-abfa-ea3cf18d0abd",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://live.arynews.tv/"
+        },
+        {
+            "name": "Geo News",
+            "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": "Geo Tv",
+            "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " Geo tv",
+            "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " Geo super",
+            "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c20725352.sdp/chunks.m3u8",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " Ten Sports",
+            "stream_url": "https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8?hdnts=exp=1765968103~acl=/hls/*~hmac=fdb05cdd3244507076631614bde942c9c982cf5e1add076d1ad62ba4078c3506",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " Hum TV",
+            "stream_url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV2/chunks_dvr.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\logos\\logo_18.png",
+            "referrer": ""
+        },
+        {
+            "name": " Ptv Sports",
+            "stream_url": "https://tvsen5.aynaott.com/Ptvsports/tracks-v1a1/mono.ts.m3u8",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " T Sports",
+            "stream_url": "https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " BBC Earth",
+            "stream_url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8",
+            "category": "International",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " News",
+            "stream_url": "https://tapmadlive.akamaized.net/tapmadold/bbcnews.smil/playlist.m3u8?",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " cartoon network",
+            "stream_url": "https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?",
+            "category": "Kids",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " Animal Planet",
+            "stream_url": "https://cdn5.mjunoon.tv:8087/web/Animal-Planet-158-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyNSAxOjQ4OjE1IFBNJmhhc2hfdmFsdWU9akFrRVdoZnQ5dUdTNDNTOVU5VmxhQT09JnZhbGlkbWludXRlcz0x",
+            "category": "International",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " flix",
+            "stream_url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8",
+            "category": "Movies",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " wilow",
+            "stream_url": "https://muc001.myluck1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=b202cda0afbcf7121ad2d86c7f980fa04079dfeb686529f7be882b1eacdd6dbed99e3f7d8e999c0e8e1752c3163a89d79e66bef0cddf91a47c1db2aad3da4535",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " TNT Sports",
+            "stream_url": "https://plu001.myluck1.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=b202cda0afbcf7121ad2d86c7f980fa04079dfeb686529f7be882b1eacdd6dbed99e3f7d8e999c0e8e1752c3163a89d79e66bef0cddf91a47c1db2aad3da4535",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " Star Sports",
+            "stream_url": "https://plu001.myluck1.top:8088/live/starsportshindi1/playlist.m3u8?id=123145&pk=b202cda0afbcf7121ad2d86c7f980fa04079dfeb686529f7be882b1eacdd6dbed99e3f7d8e999c0e8e1752c3163a89d79e66bef0cddf91a47c1db2aad3da4535",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " Sky Sports",
+            "stream_url": "https://mut001.myluck1.top:8088/live/foxcricket/playlist.m3u8?id=121285&pk=b202cda0afbcf7121ad2d86c7f980fa04079dfeb686529f7be882b1eacdd6dbed99e3f7d8e999c0e8e1752c3163a89d79e66bef0cddf91a47c1db2aad3da4535",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " willo by buzz",
+            "stream_url": "https://muc001.myluck1.top:8088/live/webcricn02/playlist.m3u8?id=115656&pk=b202cda0afbcf7121ad2d86c7f980fa04079dfeb686529f7be882b1eacdd6dbed99e3f7d8e999c0e8e1752c3163a89d79e66bef0cddf91a47c1db2aad3da4535",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " TNT Sport3",
+            "stream_url": "https://mut001.myluck1.top:8088/live/webcricp01/playlist.m3u8?id=113431&pk=b202cda0afbcf7121ad2d86c7f980fa04079dfeb686529f7be882b1eacdd6dbe3b90a9e55e31fd67b7e0c7dd47d2116618916070a6e1d936e701c9dee723a911",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " sky sports cricket",
+            "stream_url": "https://muc002.myluck1.top:8088/live/webcrict20/playlist.m3u8?id=118106&pk=b202cda0afbcf7121ad2d86c7f980fa04079dfeb686529f7be882b1eacdd6dbe3b90a9e55e31fd67b7e0c7dd47d2116618916070a6e1d936e701c9dee723a911",
+            "category": "Sports",
+            "status": "Working",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " green tv",
+            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAyOjAzOjUyIEFNJmhhc2hfdmFsdWU9Y3B4VE9aa0NRKzRXTWNwNzNOaVU5UT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8",
+            "category": "Entertainment",
+            "status": "Dead",
+            "logo": "",
+            "referrer": ""
+        },
+        {
+            "name": " ARY",
+            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAyOjA1OjM5IEFNJmhhc2hfdmFsdWU9SGpicy8wdzh6c3J6cGFUZC9RRjJ3dz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYdigital-abr/playlist.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\logos\\logo_34.png",
+            "referrer": ""
+        },
+        {
+            "name": " Discovey",
+            "stream_url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAyOjEwOjU3IEFNJmhhc2hfdmFsdWU9YjQvaktmVUhWalVPamY5R1lGRG9YZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8",
+            "category": "International",
+            "status": "Working",
+            "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\logos\\logo_35.png",
+            "referrer": ""
+        },
+        {
+            "name": "DUNIYA NEWS",
+            "stream_url": "https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1228042778_b950272.m3u8",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://dunyanews.tv/live/"
+        }
+    ]
+}
