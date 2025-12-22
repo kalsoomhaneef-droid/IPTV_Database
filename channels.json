@@ -148,7 +148,7 @@
             "name": " Ptv Sports",
             "stream_url": "https://tvsen5.aynaott.com/Ptvsports/tracks-v1a1/mono.ts.m3u8",
             "category": "Sports",
-            "status": "Working",
+            "status": "Dead",
             "logo": "",
             "referrer": ""
         },
@@ -156,7 +156,7 @@
             "name": " T Sports",
             "stream_url": "https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8",
             "category": "Sports",
-            "status": "Working",
+            "status": "Dead",
             "logo": "",
             "referrer": ""
         },
@@ -292,7 +292,7 @@
             "name": "AUR TV",
             "stream_url": "https://tapmadlive.akamaized.net/tapmadold/Aurlife.smil/chunklist_w597033341_b748000_slEng.m3u8",
             "category": "Entertainment",
-            "status": "Working",
+            "status": "Dead",
             "logo": "",
             "referrer": "https://www.tapmad.com/watch/aur-tv/168181"
         },
@@ -356,7 +356,7 @@
             "name": "SONY BBC EARTH",
             "stream_url": "https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8",
             "category": "Uncategorized",
-            "status": "Dead",
+            "status": "Working",
             "logo": "",
             "referrer": "https://stmify.com/live-tv/sony-bbc-earth/"
         },
@@ -367,6 +367,54 @@
             "status": "Working",
             "logo": "",
             "referrer": "https://stmify.com/live-tv/wwe-network/"
+        },
+        {
+            "name": "SAMAA TV",
+            "stream_url": "https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8?nimblesessionid=558034352&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjI1OjU5IEFNJmhhc2hfdmFsdWU9K2lDTzNrbTg3a1k5dEJod1RyMzFMZz09JnZhbGlkbWludXRlcz0x",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://www.mjunoon.tv/watch-live-tv-channels"
+        },
+        {
+            "name": "DAWAN NEWS",
+            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/DawnNews-abr/live/vsat-130H/chunks.m3u8?nimblesessionid=60499269&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjI5OjE3IEFNJmhhc2hfdmFsdWU9WjgyejQwNHlRRlcwUFA2V2ltU1pkZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/DawnNews-abr/playlist.m3u8",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://tamashaweb.com/live-tv"
+        },
+        {
+            "name": "FILMAX",
+            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Filmax-abr/live/vsat-filmax-H/chunks.m3u8?nimblesessionid=69091078&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjMxOjA3IEFNJmhhc2hfdmFsdWU9ZHJYbDJVNVF1U1JLdTh3cGFXWXJwdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Filmax-abr/playlist.m3u8",
+            "category": "Movies",
+            "status": "Dead",
+            "logo": "",
+            "referrer": "https://tamashaweb.com/live-tv"
+        },
+        {
+            "name": "EXPRESS",
+            "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjMyOjI5IEFNJmhhc2hfdmFsdWU9ektOa1pMcFNPbjRLMjVxUWJ1U05aZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://tamashaweb.com/live-tv"
+        },
+        {
+            "name": "HUM TV HD",
+            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-H/chunks.m3u8?nimblesessionid=60500173&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjM0OjEwIEFNJmhhc2hfdmFsdWU9dThZMVZ0K1hQMVg1am9Xd1hib0VaQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/humTV-abr/playlist.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://tamashaweb.com/live-tv"
+        },
+        {
+            "name": "GREEN TV",
+            "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-H/chunks.m3u8?nimblesessionid=77513589&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjM1OjE4IEFNJmhhc2hfdmFsdWU9VG8xUEVlcjlhYVRFYWczS1ZweXlNZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://tamashaweb.com/live-tv"
         }
     ]
 }
