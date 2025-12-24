@@ -76,7 +76,7 @@
             "name": "NICK",
             "stream_url": "https://onezoo.net/leo/live.php?id=545&format=.m3u8",
             "category": "Kids",
-            "status": "Dead",
+            "status": "Working",
             "logo": "",
             "referrer": "https://oxolive.com/live/nick/"
         },
@@ -228,7 +228,7 @@
             "name": " willo by buzz",
             "stream_url": "https://muc001.myluck1.top:8088/live/webcricn02/playlist.m3u8?id=115656&pk=b202cda0afbcf7121ad2d86c7f980fa04079dfeb686529f7be882b1eacdd6dbed99e3f7d8e999c0e8e1752c3163a89d79e66bef0cddf91a47c1db2aad3da4535",
             "category": "Sports",
-            "status": "Working",
+            "status": "Dead",
             "logo": "",
             "referrer": ""
         },
@@ -415,6 +415,446 @@
             "status": "Dead",
             "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\dist\\logos\\logo_1766404257.jpg",
             "referrer": "https://tamashaweb.com/live-tv"
+        },
+        {
+            "name": "SAMMA NEWZ",
+            "stream_url": "https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/playlist.m3u8?hdnts=exp=1766455622~acl=/hls/*~hmac=a9519012edc4863db1ac206a1d70ec33ec0849190bd23d28b2525d37cdab68e6",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://www.tapmad.com/watch/samaa-news/1101"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live.shoq.com.pk/live/eds/ARY_News/DASH/ARY_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2ODg2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiNzdhYmEzMzliOWQwNDhjNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.HdmAadFU5MnAHRFoPn3eWLapokIq8XmNFCOmBTbOPhO5xG537yUVDjUtpGFapN3QeEYqUDx5E9U_PvR7q7U0lQ==/live/eds/ARY_News/DASH/ARY_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2ODg3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiYjAxNTM0ZWVkYmUxM2I4NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.EYA_gCYElep_Y66CRmriYSpkbSKKONZeYhXoKBHLKYIz3n-d2zk27Qm2FCO37QuEzNFzrN-6k-hF4ZVJmh-gPQ==/live/eds/ARY_News/DASH/ARY_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://infinity-c15.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=354561064213&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F354561064213&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FARY_News%2FDASH%2FARY_News.mpd&duration=5&live=false&title=ARY%20News%20-%20Live&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FARY_News%2FDASH%2FARY_News.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22ARY%20News%20-%20Live%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22ARYNEWSLIVEY2023MUR%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A354561064213%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455287915&code=V_12953_59iglm94cjyjt3mh_0",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2ODk3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMGNjOWVlOTRkYWQyYWFkMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.Euzoe8x3KIt65-TvYP8B0J7oOI9MHxjmz4y3ha9y7Rib_GW69QQ3S6Y785edHZWfGptYZ-cyLO9tR1S7-um6Xw==/live/eds/ARY_News/DASH/ARY_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTA4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMGM2ZjMzMjc4NGQ0MDE0YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.hNgfXvoMK2xbqYLWJ9ZcwvDBlpYc6P6woQ1Akaa9FsuMlSX6nIXy8al_tb66zK5PgiVZlZNWxw6A3paiDmCh6Q==/live/eds/ARY_News/DASH/ARY_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTE4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiOGMzYmFmYTM3YThmYWI0NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.gjII-S7yRlBb1B7H3JmlpqLTSllGWS7H1zwSULEzS5lE3yCFRMjB-HnrNDZ9OLHuXrdotOalQLV1_KK6xbE94w==/live/eds/ARY_News/DASH/ARY_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiYzY4MWExZTEyNWQwNTlhMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.RCP4n_gAaoXEE1zz1HEPpIoUDOEppHCTlqExKj4VHuX_zqd5zqCKKXkVI4ITo4nSBmQ2AF_uLx1y2oZyTAmW3A==/live/eds/ARY_News/DASH/ARY_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTQ4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiOTkzMjJhYmY0N2RlNWVjMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.FOICb_2XR8nGlxHozHM6ZBILXRu3lYvAm2AtjLsLCPaTYYg4jXroPdKP7HAuGq1hrBv7MpYisp8iMIU74ROLZA==/live/eds/Green_TV/DASH/Green_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTQ5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMTJiZDExZTgwOGE1ZTA5NyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.PKS2ZoVZQlY9bM07VOPBOhyFRac50xqyivt03XmrqdnVON-wsB8RVWLJLuwSuSr4nUdPwM4iERd2emzJluzIEg==/live/eds/Green_TV/DASH/Green_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://infinity-c15.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=469871144207&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F469871144207&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FGreen_TV%2FDASH%2FGreen_TV.mpd&duration=5&live=false&title=Green%20TV%20Live&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FGreen_TV%2FDASH%2FGreen_TV.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22Green%20TV%20Live%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22GREENTVLIVEY2023M%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A469871144207%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455350127&code=V_12953_5s9qrebj7m4fmqvi_0",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTU5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiODZiZjFiZGUzZDE1ZTFhOCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.7rgb-B3DOsKJOEECnJonwRXQiQXd_eVq_u3gjh-sOsTbBgK02vAlqf2U_hSg9_FW8s6bcauXw7s-GVKwRG02Aw==/live/eds/Green_TV/DASH/Green_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTY5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiNDUzYzZhNjQwMDdhMmE0NCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==._YAgfUO7_89NXPbicae1loHFtPfrkD0EvT4ght9FhBSSziF4dMwlUmcLe88x2UcJgLVfU-BmzGoF5SiuHd5_6g==/live/eds/Green_TV/DASH/Green_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTgxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiZDEzNmQ3YmY4Yjg3OTU5MiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.CVAanyjiBUTEy2L8hYlPjz-KWgCdGsQUozwKTD_tN8AAswqYuOtnqPvenXinQ-yEgYSOGB4saKBM26hTI3fjDA==/live/eds/Green_TV/DASH/Green_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTkzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMmMxMWE0MTdmZjMxZjE5OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.tXGhjrq80V9VFdCg1wvGkwkXXtgexQ1C9A1tUv3ZGrf9e7am4xbXsVkcWIRzxT3FglfJ9CpzeTNfZBkMQWayzA==/live/eds/Green_TV/DASH/Green_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MDAzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiOWNmMGU2ODBmNTYxZTI3YSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.u0FDa4bdQFc3xALCWEW3VOlVRECJ_V8dmzZGn2_EYqx1HvtBfziZR3TdO5FZt7unnrbjCiHLrTCaMhPOv_u17w==/live/eds/Green_TV/DASH/Green_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live.shoq.com.pk/live/eds/Hum_News/DASH/Hum_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MDM5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IdW1fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMGZlMjUzNjdlZTYzNzM5NCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.GOLcUww5p0gDHOM5DC_69Zp9CJI7GPybZy3Nkcabsu8Wor8QQaG8te26f6c0VJXvSMlCyqqk3OeUAnP_8tmytw==/live/eds/Hum_News/DASH/Hum_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MDQwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IdW1fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiZWRmNzgzMmE2OTAzNzcxNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.bRbzac8j05iVhzzYy1p8s73hCzXTaS5PFHFZ3KAeno3-HlQYBiTk-rhOW1WRsZFQ64d5Kw3_QBOEENobfN_vkw==/live/eds/Hum_News/DASH/Hum_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://infinity-c35.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=354561064215&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F354561064215&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FHum_News%2FDASH%2FHum_News.mpd&duration=5&live=false&title=Hum%20News%20-%20Live&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FHum_News%2FDASH%2FHum_News.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22Hum%20News%20-%20Live%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22HUMNEWSLIVEY2023MUR%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A354561064215%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455440939&code=V_12953_aghne816az6jycu7_0",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MDUwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IdW1fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiZWIwNTIyYjZiNGNiNzM0ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.HL2c2TE1ChluFPBS7WVqQYi06ZPJJHay7i6w0pEwNMoUSsvZuYFa9uExVEPWl0OEbnrUNGpFDn9VRKvLnBXQVQ==/live/eds/Hum_News/DASH/Hum_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MDYwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IdW1fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiYWRmMzk2ZmNjMDcxOTY5MCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.3ITRnEhllj6zNWzNlZNSGgzMT6k9iYFjQiSvELheoFWIveONWbcNbTZOtJfQovOROd9etSOLuWGY-6VrBvY9qg==/live/eds/Hum_News/DASH/Hum_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MDcxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IdW1fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiODI3YmRjMmU0MjBhN2RkMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.PdOtFrqNIKUG5IVXleEViznsD9KQsczUNE98eiuZrgAyfDA9uq4MF_vZNCxTqgg7CzXJwfn8UPhy1NQy82tLeQ==/live/eds/Hum_News/DASH/Hum_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MDgxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IdW1fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiZWJjMWE5OGYwMmY1YzExNiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.kqUnicnf0sZfM_6GVisk5FHGktDfHZ2QWm7W8CN9hhSzWxUoGsY3_j56h1APoHGY-1N7Pr9YxvMws8oT3mQ2mQ==/live/eds/Hum_News/DASH/Hum_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live.shoq.com.pk/live/eds/Dawn_News/DASH/Dawn_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354562600207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MTA4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9EYXduX05ld3MvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzNjFiYWVhZDY2OGYyMmQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.ZWygEN_iX4nAsfNfD_YddnDa1eTAtu9WDqggTqw5cwAQT5P7kX0vXFcp5moxKFbG1YufcB6qc2JFfAwv5GG_ZQ==/live/eds/Dawn_News/DASH/Dawn_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354562600207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MTA4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9EYXduX05ld3MvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE4ZjUyZGYwNDY4MzhhMWMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.vF3AH6i-cx5mANaUPvZqkJ1BBmTYb34hr8b8EQS8pV2mVaPzDRZv6Q_1gz5nOzZw6Rpxtb9OB-m5drC0rw4r8g==/live/eds/Dawn_News/DASH/Dawn_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354562600207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://infinity-c33.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=354562600207&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F354562600207&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FDawn_News%2FDASH%2FDawn_News.mpd&duration=5&live=false&title=Dawn%20News%20-%20Live&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FDawn_News%2FDASH%2FDawn_News.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22Dawn%20News%20-%20Live%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22DAWNNEWSLIVEY2023MUR%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A354562600207%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455509782&code=V_12953_bldbhc69ac4thxuz_0",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354562600207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MTE4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9EYXduX05ld3MvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImFhZGQzODc4ODM5NWE0OTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.N0McBOzr_eBG14Px9jBwCPQjCexJzrTRigRkIiDuHcbLlFhAXuFDxE84tk_JLeThFkczThWK_jA5XMFafMWoGg==/live/eds/Dawn_News/DASH/Dawn_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354562600207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MTI5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9EYXduX05ld3MvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRjYmMwNDNkNzk1ODNiNzgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.lbT3PHo52ZSSbio5OXoiGiTCVeB50b25TQIBK3bqgIT1eF1DjrQJRtn78slW_f6CvndgIcr4l1m-wAEAxvvuiQ==/live/eds/Dawn_News/DASH/Dawn_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354562600207"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live.shoq.com.pk/live/eds/Express_News/DASH/Express_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354563112183"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MTQzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9FeHByZXNzX05ld3MvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdlNmY5MDA2NTRiOWIxMjAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.PG7bv9B2gxL9W7s0mpg2j5wCMALWu7TgZ8MGnSoPK9zKKRQ205CRGq0kGjZyyvnWnxkgWrL6P_VYYAQhac0E0Q==/live/eds/Express_News/DASH/Express_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354563112183"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MTQzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9FeHByZXNzX05ld3MvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImMzZDU0ZWI5MjYyZDg1ZDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.3uTpLVsGkiItioMZaROAqXLebX5wXPCkLNEmwa57xyTaJihkbyAbMLmOkl_a1013hhciGdxvrhjRpNqcrwkAOg==/live/eds/Express_News/DASH/Express_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354563112183"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://infinity-c34.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=354563112183&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F354563112183&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FExpress_News%2FDASH%2FExpress_News.mpd&duration=5&live=false&title=Express%20News%20-%20Live&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FExpress_News%2FDASH%2FExpress_News.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22Express%20News%20-%20Live%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22EXPRESSNEWSLIVEY2023MUR%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A354563112183%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455544413&code=V_12953_3eiktql748vdllpw_0",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354563112183"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MTUzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9FeHByZXNzX05ld3MvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjE0YjViMmIzM2M4MWY0NTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.gxr7rf2VdxUr91XLz15eCSsW8EeCgOD0FUUdwM5MlcWfM-dFYp-QjlWvw4Exy4aC7UqI-ILO6lG4nmkUO0-flg==/live/eds/Express_News/DASH/Express_News.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354563112183"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://infinity-c34.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=354563112183&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F354563112183&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FExpress_News%2FDASH%2FExpress_News.mpd&duration=5&live=false&rendition=1280x720%401.5Mbps&title=Express%20News%20-%20Live&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FExpress_News%2FDASH%2FExpress_News.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22Express%20News%20-%20Live%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22EXPRESSNEWSLIVEY2023MUR%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A354563112183%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455558501&code=V_12953_3eiktql748vdllpw_1",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354563112183"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355537447956"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MTgxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9GSUxNQVgvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4YWY2ZmUzZGVhODRjN2YiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.JKvIA28Q2tx_au560L5bVpcZ4_MhYf6cAbR7AZKAfvhGryaEjA-3uq5vEVjvhYOvFEucF0lYvWSITjY55SWfFQ==/live/eds/FILMAX/DASH/FILMAX.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355537447956"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MTgyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9GSUxNQVgvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU1NmM0NGYxMzk5NzUxN2QiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.CmRh7iu0V8wj4CUjDAwTMW8pOllectJJ9c2mourgxVU-u_7eG24bGoVtVspVFyKWnPtufa9fZ8K6Fd4iABhG3Q==/live/eds/FILMAX/DASH/FILMAX.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355537447956"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://infinity-c38.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=355537447956&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F355537447956&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FFILMAX%2FDASH%2FFILMAX.mpd&duration=5&live=false&title=FILMAX&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FFILMAX%2FDASH%2FFILMAX.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22FILMAX%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22FILMAXY2023M%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A355537447956%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455582949&code=V_12953_ctooofkl2palfpdh_0",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355537447956"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MTkyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9GSUxNQVgvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI5NDM3ZGM0NWM1NjhmY2QiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.T897g6IlD6yU-VlNLZOLolNTfFRiFb65vYGwRk5dg4Onhyg6P-h032yXezZA1Eyhw7tFqSXW_AtBAtK15e9y5g==/live/eds/FILMAX/DASH/FILMAX.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355537447956"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MjAyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9GSUxNQVgvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYwMzZlY2M3NWQ2ODk0YmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.Culk522lh4cXrs1mUaVzH_sPxAVZiugMdGcg8hFsTjd105R-uku9k918zwSwA-RIIMGD1k0yprc8PUMIBrQj0g==/live/eds/FILMAX/DASH/FILMAX.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355537447956"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MjEyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9GSUxNQVgvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhmM2Q1ZmZjMmY5YjAzNmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.zg2H8bTYCMnf2XRlYYB9drd-dXddj9WfTmtbAD-CVUcQOEq2shVqVD5cE7FiDeZQqfYu7-GBNT5R8mi5QEDJRA==/live/eds/FILMAX/DASH/FILMAX.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355537447956"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561576212"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MjQ1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IVU1fVFYvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJkYjE2ZWFjY2IzNGNhMWEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.SZTClaatuPYCBIvVbaQnxTLeAXC0rI9OyVaXsUjw9_9AGIsqR2-_nzRVcTWPrJ4Konz_n0QgXc9Uq0eY99rfLQ==/live/eds/HUM_TV/DASH/HUM_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561576212"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MjQ1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IVU1fVFYvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA3ZjQwYmMyYTE2ZDc4YmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMwIiwic291cmNlcyI6WzM3LDUwXX0=.undg88knKGO7MkD5MOmJfTtFAGdBrGBINFvSE8R78EGJu8PzzqPWfxGNtVg-tLEmbW4DHGmVxKh6ZVYgtAdFuA==/live/eds/HUM_TV/DASH/HUM_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561576212"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://infinity-c15.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=354561576212&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F354561576212&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FHUM_TV%2FDASH%2FHUM_TV.mpd&duration=5&live=false&title=HUM%20TV%20-%20Live&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FHUM_TV%2FDASH%2FHUM_TV.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22HUM%20TV%20-%20Live%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22HUMTVLIVEY2023MUR%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A354561576212%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455646526&code=V_12953_bgi412l51itlu82e_0",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561576212"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MjU1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IVU1fVFYvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjYyNWVjYWVkMjZhM2M0NzciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjI5Iiwic291cmNlcyI6WzM3LDUwXX0=.XRXA1pVd7veSXcl9CWKh2X7Y4B5lnAkq97fgnWEz0_tVZCdtMKX4vn8UzCYnRwkMixIFgb-FL51hzqYNCQF9Ig==/live/eds/HUM_TV/DASH/HUM_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561576212"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MjY2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IVU1fVFYvREFTSC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVkMmYyNWI5M2UwNTk2MWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzExOS4xNTYuMjM0LjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjI5Iiwic291cmNlcyI6WzM3LDUwXX0=.SBb9x6u53DcyG7Pc3lJdiK5xJgDRQf9aRdo1VBb7LLlbNPLdZCRx8PIgTZxKiUY1pbkJXNgY0lN1Lo9_BCg5uQ==/live/eds/HUM_TV/DASH/HUM_TV.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561576212"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live.shoq.com.pk/live/eds/Geo_Kahani/DASH/Geo_Kahani.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355536424211"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3Mjk2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HZW9fS2FoYW5pL0RBU0gvIiwic2Vzc2lvbl9jZG5faWQiOiI0MDQ3NzVkMDU4YmFlNjVhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMTkuMTU2LjIzNC4zIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIyOSIsInNvdXJjZXMiOlszNyw1MF19.nP5bBgYItBplQE1jVckD10EtAkcQoAQk2g42iRIlFktYVgKx6Ba7c91I5o9589OCn5GyT-iBMIFh9Z9CjnLXyA==/live/eds/Geo_Kahani/DASH/Geo_Kahani.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355536424211"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3Mjk2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HZW9fS2FoYW5pL0RBU0gvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZjJmNGZmOTdiMzYxODA0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMTkuMTU2LjIzNC4zIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIyOSIsInNvdXJjZXMiOlszNyw1MF19.F2JcU1dANuVit0buuKhU-mexT_-BxmRtez8bfkXH4CEykWPYBwbWq3Sgf3d-GCY8h_pEZi2HVt-kPM31sXKq1g==/live/eds/Geo_Kahani/DASH/Geo_Kahani.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355536424211"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://infinity-c38.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=355536424211&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F355536424211&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FGeo_Kahani%2FDASH%2FGeo_Kahani.mpd&duration=5&live=false&title=Geo%20Kahani&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FGeo_Kahani%2FDASH%2FGeo_Kahani.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22Geo%20Kahani%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22GEOKAHANICATCHUPY2023MUR%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A355536424211%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455697261&code=V_12953_8uy4lcscauqzdkvz_0",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355536424211"
+        },
+        {
+            "name": "Auto Stream",
+            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MzA2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HZW9fS2FoYW5pL0RBU0gvIiwic2Vzc2lvbl9jZG5faWQiOiI0ZjVjMjkxMWI5OTYwNDQyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMTkuMTU2LjIzNC4zIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIyOSIsInNvdXJjZXMiOlszNyw1MF19.KMnMthORCJhH8mAIs7ivA19PuY2sxHzND2GCpbXLS51dkFOYgPjwcbfQpaSlvRLQERabduzoNr461aWv0H-AEw==/live/eds/Geo_Kahani/DASH/Geo_Kahani.mpd",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/355536424211"
         }
     ]
 }
