@@ -1,14 +1,6 @@
 {
     "channels": [
         {
-            "name": "ARY DIgital",
-            "stream_url": "https://arydigital.aryzap.com/8e6b313dea2a66de7a5aad472dc67673/69491b29/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_480p.m3u8?uuid=8b039c92-61be-42f4-8ad1-4736e45407b3&isSubM3u8=1",
-            "category": "Entertainment",
-            "status": "Dead",
-            "logo": "",
-            "referrer": "https://live.arydigital.tv/"
-        },
-        {
             "name": "Colors",
             "stream_url": "https://cdn.stmify.com/out/v1/COLORS_HD/index.m3u8",
             "category": "Entertainment",
@@ -89,14 +81,6 @@
             "referrer": "https://stmify.com/live-tv/animal-planet/"
         },
         {
-            "name": "ARY NEWS",
-            "stream_url": "https://arynews.aryzap.com/62a6980a7ee432aa82fbd430ae8e744e/69492b26/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8?uuid=8d0d88af-34a8-4ee3-abfa-ea3cf18d0abd",
-            "category": "News",
-            "status": "Dead",
-            "logo": "",
-            "referrer": "https://live.arynews.tv/"
-        },
-        {
             "name": "Geo News",
             "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8",
             "category": "News",
@@ -116,7 +100,7 @@
             "name": " Geo tv",
             "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8",
             "category": "Entertainment",
-            "status": "Working",
+            "status": "Dead",
             "logo": "",
             "referrer": ""
         },
@@ -228,7 +212,7 @@
             "name": " willo by buzz",
             "stream_url": "https://muc001.myluck1.top:8088/live/webcricn02/playlist.m3u8?id=115656&pk=b202cda0afbcf7121ad2d86c7f980fa04079dfeb686529f7be882b1eacdd6dbed99e3f7d8e999c0e8e1752c3163a89d79e66bef0cddf91a47c1db2aad3da4535",
             "category": "Sports",
-            "status": "Dead",
+            "status": "Working",
             "logo": "",
             "referrer": ""
         },
@@ -324,7 +308,7 @@
             "name": "PEACE TV  ENG",
             "stream_url": "https://aryqtv.aryzap.com/3532a811a36183fba31430667219e3a2/694a43fb/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_360p.m3u8?isSubM3u8=1",
             "category": "Islamic",
-            "status": "Working",
+            "status": "Dead",
             "logo": "",
             "referrer": "https://live.aryqtv.tv/"
         },
@@ -356,7 +340,7 @@
             "name": "SONY BBC EARTH",
             "stream_url": "https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8",
             "category": "Uncategorized",
-            "status": "Working",
+            "status": "Dead",
             "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\dist\\logos\\logo_1766404440.jpg",
             "referrer": "https://stmify.com/live-tv/sony-bbc-earth/"
         },
@@ -369,51 +353,11 @@
             "referrer": "https://stmify.com/live-tv/wwe-network/"
         },
         {
-            "name": "SAMAA TV",
-            "stream_url": "https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8?nimblesessionid=558034352&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjI1OjU5IEFNJmhhc2hfdmFsdWU9K2lDTzNrbTg3a1k5dEJod1RyMzFMZz09JnZhbGlkbWludXRlcz0x",
-            "category": "News",
-            "status": "Dead",
-            "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\dist\\logos\\logo_1766404477.jpg",
-            "referrer": "https://www.mjunoon.tv/watch-live-tv-channels"
-        },
-        {
-            "name": "DAWAN NEWS",
-            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/DawnNews-abr/live/vsat-130H/chunks.m3u8?nimblesessionid=60499269&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjI5OjE3IEFNJmhhc2hfdmFsdWU9WjgyejQwNHlRRlcwUFA2V2ltU1pkZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/DawnNews-abr/playlist.m3u8",
-            "category": "News",
-            "status": "Dead",
-            "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\dist\\logos\\logo_1766404412.jpg",
-            "referrer": "https://tamashaweb.com/live-tv"
-        },
-        {
-            "name": "FILMAX",
-            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Filmax-abr/live/vsat-filmax-H/chunks.m3u8?nimblesessionid=69091078&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjMxOjA3IEFNJmhhc2hfdmFsdWU9ZHJYbDJVNVF1U1JLdTh3cGFXWXJwdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Filmax-abr/playlist.m3u8",
-            "category": "Movies",
-            "status": "Dead",
-            "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\dist\\logos\\logo_1766404375.jpg",
-            "referrer": "https://tamashaweb.com/live-tv"
-        },
-        {
             "name": "EXPRESS",
             "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjMyOjI5IEFNJmhhc2hfdmFsdWU9ektOa1pMcFNPbjRLMjVxUWJ1U05aZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8",
             "category": "Entertainment",
             "status": "Working",
             "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\dist\\logos\\logo_1766404356.jpg",
-            "referrer": "https://tamashaweb.com/live-tv"
-        },
-        {
-            "name": "HUM TV HD",
-            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-H/chunks.m3u8?nimblesessionid=60500173&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjM0OjEwIEFNJmhhc2hfdmFsdWU9dThZMVZ0K1hQMVg1am9Xd1hib0VaQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/humTV-abr/playlist.m3u8",
-            "category": "Entertainment",
-            "status": "Dead",
-            "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\dist\\logos\\logo_1766404334.jpg",
-            "referrer": "https://tamashaweb.com/live-tv"
-        },
-        {
-            "name": "GREEN TV",
-            "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-H/chunks.m3u8?nimblesessionid=77513589&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjM1OjE4IEFNJmhhc2hfdmFsdWU9VG8xUEVlcjlhYVRFYWczS1ZweXlNZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8",
-            "category": "Entertainment",
-            "status": "Dead",
-            "logo": "C:\\Users\\kalsoom\\Desktop\\IPTV_Referrer_App\\dist\\logos\\logo_1766404257.jpg",
             "referrer": "https://tamashaweb.com/live-tv"
         },
         {
@@ -423,158 +367,6 @@
             "status": "Working",
             "logo": "",
             "referrer": "https://www.tapmad.com/watch/samaa-news/1101"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live.shoq.com.pk/live/eds/ARY_News/DASH/ARY_News.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2ODg2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiNzdhYmEzMzliOWQwNDhjNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.HdmAadFU5MnAHRFoPn3eWLapokIq8XmNFCOmBTbOPhO5xG537yUVDjUtpGFapN3QeEYqUDx5E9U_PvR7q7U0lQ==/live/eds/ARY_News/DASH/ARY_News.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2ODg3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiYjAxNTM0ZWVkYmUxM2I4NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.EYA_gCYElep_Y66CRmriYSpkbSKKONZeYhXoKBHLKYIz3n-d2zk27Qm2FCO37QuEzNFzrN-6k-hF4ZVJmh-gPQ==/live/eds/ARY_News/DASH/ARY_News.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://infinity-c15.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=354561064213&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F354561064213&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FARY_News%2FDASH%2FARY_News.mpd&duration=5&live=false&title=ARY%20News%20-%20Live&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FARY_News%2FDASH%2FARY_News.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22ARY%20News%20-%20Live%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22ARYNEWSLIVEY2023MUR%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A354561064213%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455287915&code=V_12953_59iglm94cjyjt3mh_0",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2ODk3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMGNjOWVlOTRkYWQyYWFkMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.Euzoe8x3KIt65-TvYP8B0J7oOI9MHxjmz4y3ha9y7Rib_GW69QQ3S6Y785edHZWfGptYZ-cyLO9tR1S7-um6Xw==/live/eds/ARY_News/DASH/ARY_News.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTA4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMGM2ZjMzMjc4NGQ0MDE0YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.hNgfXvoMK2xbqYLWJ9ZcwvDBlpYc6P6woQ1Akaa9FsuMlSX6nIXy8al_tb66zK5PgiVZlZNWxw6A3paiDmCh6Q==/live/eds/ARY_News/DASH/ARY_News.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTE4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiOGMzYmFmYTM3YThmYWI0NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.gjII-S7yRlBb1B7H3JmlpqLTSllGWS7H1zwSULEzS5lE3yCFRMjB-HnrNDZ9OLHuXrdotOalQLV1_KK6xbE94w==/live/eds/ARY_News/DASH/ARY_News.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9BUllfTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiYzY4MWExZTEyNWQwNTlhMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.RCP4n_gAaoXEE1zz1HEPpIoUDOEppHCTlqExKj4VHuX_zqd5zqCKKXkVI4ITo4nSBmQ2AF_uLx1y2oZyTAmW3A==/live/eds/ARY_News/DASH/ARY_News.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064213"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTQ4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiOTkzMjJhYmY0N2RlNWVjMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.FOICb_2XR8nGlxHozHM6ZBILXRu3lYvAm2AtjLsLCPaTYYg4jXroPdKP7HAuGq1hrBv7MpYisp8iMIU74ROLZA==/live/eds/Green_TV/DASH/Green_TV.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTQ5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMTJiZDExZTgwOGE1ZTA5NyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.PKS2ZoVZQlY9bM07VOPBOhyFRac50xqyivt03XmrqdnVON-wsB8RVWLJLuwSuSr4nUdPwM4iERd2emzJluzIEg==/live/eds/Green_TV/DASH/Green_TV.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://infinity-c15.youboranqs01.com/start?system=parsifalentertainment&player=bitdash-vr&user=0f073d460eed41ba93d3cbcd91969d50-pt&transcode=469871144207&hashTitle=true&referer=https%3A%2F%2Fplay.shoq.com.pk%2Fen%2Fmovies%2Fstarzplay%2F469871144207&pluginVersion=5.5.0-bitdash-vr&playerVersion=bitdash%20undefined&resource=https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FGreen_TV%2FDASH%2FGreen_TV.mpd&duration=5&live=false&title=Green%20TV%20Live&properties=%7B%22device%22%3A%7B%22manufacturer%22%3A%22Win32%22%2C%22type%22%3A%22PC(%20Windows%20)%22%2C%22year%22%3A%22%22%2C%22firmware%22%3A%22chrome%22%7D%2C%22quality%22%3A%22HD%22%2C%22filename%22%3A%22https%3A%2F%2Flive.shoq.com.pk%2Flive%2Feds%2FGreen_TV%2FDASH%2FGreen_TV.mpd%22%2C%22content_metadata%22%3A%7B%22title%22%3A%22Green%20TV%20Live%22%2C%22genre%22%3A%22Movies%22%2C%22language%22%3A%22en%22%2C%22duration%22%3A5%2C%22parental%22%3A%227%22%2C%22mediaGuid%22%3A%22GREENTVLIVEY2023M%22%2C%22app_version%22%3A%221.2.3%22%2C%22parentId%22%3A469871144207%2C%22season%22%3A0%2C%22episode%22%3A0%7D%2C%22content_type%22%3A%22movies%22%7D&adsExpected=false&pingTime=5&timemark=1766455350127&code=V_12953_5s9qrebj7m4fmqvi_0",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTU5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiODZiZjFiZGUzZDE1ZTFhOCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.7rgb-B3DOsKJOEECnJonwRXQiQXd_eVq_u3gjh-sOsTbBgK02vAlqf2U_hSg9_FW8s6bcauXw7s-GVKwRG02Aw==/live/eds/Green_TV/DASH/Green_TV.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTY5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiNDUzYzZhNjQwMDdhMmE0NCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==._YAgfUO7_89NXPbicae1loHFtPfrkD0EvT4ght9FhBSSziF4dMwlUmcLe88x2UcJgLVfU-BmzGoF5SiuHd5_6g==/live/eds/Green_TV/DASH/Green_TV.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live1.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTgxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiZDEzNmQ3YmY4Yjg3OTU5MiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMjkiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.CVAanyjiBUTEy2L8hYlPjz-KWgCdGsQUozwKTD_tN8AAswqYuOtnqPvenXinQ-yEgYSOGB4saKBM26hTI3fjDA==/live/eds/Green_TV/DASH/Green_TV.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc2OTkzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMmMxMWE0MTdmZjMxZjE5OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.tXGhjrq80V9VFdCg1wvGkwkXXtgexQ1C9A1tUv3ZGrf9e7am4xbXsVkcWIRzxT3FglfJ9CpzeTNfZBkMQWayzA==/live/eds/Green_TV/DASH/Green_TV.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MDAzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9HcmVlbl9UVi9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiOWNmMGU2ODBmNTYxZTI3YSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.u0FDa4bdQFc3xALCWEW3VOlVRECJ_V8dmzZGn2_EYqx1HvtBfziZR3TdO5FZt7unnrbjCiHLrTCaMhPOv_u17w==/live/eds/Green_TV/DASH/Green_TV.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/469871144207"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live.shoq.com.pk/live/eds/Hum_News/DASH/Hum_News.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MDM5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IdW1fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiMGZlMjUzNjdlZTYzNzM5NCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.GOLcUww5p0gDHOM5DC_69Zp9CJI7GPybZy3Nkcabsu8Wor8QQaG8te26f6c0VJXvSMlCyqqk3OeUAnP_8tmytw==/live/eds/Hum_News/DASH/Hum_News.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://live2.shoq.com.pk/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2NDc3MDQwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9IdW1fTmV3cy9EQVNILyIsInNlc3Npb25fY2RuX2lkIjoiZWRmNzgzMmE2OTAzNzcxNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTE5LjE1Ni4yMzQuMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzAiLCJzb3VyY2VzIjpbMzcsNTBdfQ==.bRbzac8j05iVhzzYy1p8s73hCzXTaS5PFHFZ3KAeno3-HlQYBiTk-rhOW1WRsZFQ64d5Kw3_QBOEENobfN_vkw==/live/eds/Hum_News/DASH/Hum_News.mpd",
-            "category": "Uncategorized",
-            "status": "Working",
-            "logo": "",
-            "referrer": "https://play.shoq.com.pk/en/movies/starzplay/354561064215"
         },
         {
             "name": "Auto Stream",
