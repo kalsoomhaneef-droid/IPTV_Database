@@ -68,7 +68,7 @@
             "name": "NICK",
             "stream_url": "https://onezoo.net/leo/live.php?id=545&format=.m3u8",
             "category": "Kids",
-            "status": "Working",
+            "status": "Dead",
             "logo": "",
             "referrer": "https://oxolive.com/live/nick/"
         },
@@ -367,6 +367,142 @@
             "status": "Working",
             "logo": "",
             "referrer": "https://www.tapmad.com/watch/samaa-news/1101"
+        },
+        {
+            "name": "Hum Tv ",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel36hd.stream/chunks.m3u8?nimblesessionid=9674578&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjI3OjMyIEFNJmhhc2hfdmFsdWU9TGVhd2JSanN1RWJpN0Y5bDJpUHExUT09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "HUM HD N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel36hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjMwOjMzIEFNJmhhc2hfdmFsdWU9NGZhWmhOSndhaklaaW1wSlJObU5oQT09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "Live TV",
+            "status": "Dead",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "HUM HD1 N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel36hd.stream/chunks.m3u8?nimblesessionid=9674607&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjMwOjMzIEFNJmhhc2hfdmFsdWU9NGZhWmhOSndhaklaaW1wSlJObU5oQT09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "Uncategorized",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "ARY NEWS 1 N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/live3/channel162sd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjMxOjUyIEFNJmhhc2hfdmFsdWU9U0Z1Y3Rpc282QTZpMnJ0N1BBd2krQT09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "News",
+            "status": "Dead",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "ARY NEWS N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/live3/channel162sd.stream/chunks.m3u8?nimblesessionid=9674633&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjMxOjUyIEFNJmhhc2hfdmFsdWU9U0Z1Y3Rpc282QTZpMnJ0N1BBd2krQT09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "HUM NEWS HD N",
+            "stream_url": "https://livestream5.nayatel.com:3030/OTT/channel100hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjMzOjM2IEFNJmhhc2hfdmFsdWU9U2JNZjNEVlBDbTNvV2wwcWxrR213Zz09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "News",
+            "status": "Dead",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "HUM NEWS N",
+            "stream_url": "https://livestream5.nayatel.com:3030/OTT/channel100hd.stream/chunks.m3u8?nimblesessionid=7200136&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjMzOjM2IEFNJmhhc2hfdmFsdWU9U2JNZjNEVlBDbTNvV2wwcWxrR213Zz09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "EXPRESS NEWS N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel07sd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjM1OjIwIEFNJmhhc2hfdmFsdWU9emxUL2FIdldHRHRjam9NWDJpOTEzQT09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "News",
+            "status": "Dead",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "EXPRESS NEWS N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel07sd.stream/chunks.m3u8?nimblesessionid=9674716&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjM1OjIwIEFNJmhhc2hfdmFsdWU9emxUL2FIdldHRHRjam9NWDJpOTEzQT09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "DAWN NEWZ N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel67sd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjM4OjExIEFNJmhhc2hfdmFsdWU9bE5jK3RQaDI1Vkwwcldzc08xaGJ0dz09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "Uncategorized",
+            "status": "Dead",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "DAWN NEWS N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel67sd.stream/chunks.m3u8?nimblesessionid=9674756&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjM4OjExIEFNJmhhc2hfdmFsdWU9bE5jK3RQaDI1Vkwwcldzc08xaGJ0dz09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "News",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "GEO KAHANI N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel41sd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjM5OjU4IEFNJmhhc2hfdmFsdWU9Rlg0dll2UXNpSVlsR1dtb00vNGcvdz09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "Entertainment",
+            "status": "Dead",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "GEO KAHANI N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel41sd.stream/chunks.m3u8?nimblesessionid=9674798&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjM5OjU4IEFNJmhhc2hfdmFsdWU9Rlg0dll2UXNpSVlsR1dtb00vNGcvdz09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "ARY DIGITAL N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/ABR/channelarydigitalabr.stream/OTT/channel29fhd.stream/chunks.m3u8?nimblesessionid=9674836&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjQxOjI4IEFNJmhhc2hfdmFsdWU9cForZHZPVEZETDNLdTRjSXloYlNRUT09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "ARY DIGITAL N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/ABR/channelarydigitalabr.stream/OTT/channel38hd.stream/chunks.m3u8?nimblesessionid=9674836&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjQxOjI4IEFNJmhhc2hfdmFsdWU9cForZHZPVEZETDNLdTRjSXloYlNRUT09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "Entertainment",
+            "status": "Working",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "MASLA TV N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel22sd.stream/chunks.m3u8?nimblesessionid=9674889&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjQ0OjE0IEFNJmhhc2hfdmFsdWU9MFNwUXZSM29zNXN4NkNNUXczVWlpZz09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "Entertainment",
+            "status": "Pending",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
+        },
+        {
+            "name": "MASLA TV N",
+            "stream_url": "https://nayatvfe6.nayatel.com:3030/OTT/channel22sd.stream/chunks.m3u8?nimblesessionid=9674891&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA2OjQ0OjIxIEFNJmhhc2hfdmFsdWU9ZmJIYWdVQ1d4UGZ2R05tM0hiK0NhZz09JnZhbGlkbWludXRlcz0zJmlkPWthbHNvb203ODY=",
+            "category": "Entertainment",
+            "status": "Pending",
+            "logo": "",
+            "referrer": "https://nayatv.nayatel.com/v2/live"
         }
     ]
 }
