@@ -156,7 +156,7 @@
             "name": "pak vs ban",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778301527~acl=/hls/*~hmac=92e9ca188e4dd3629dd302918ddf193efa2f436653e0ef40a66b807d125865a2",
             "category": "Sports",
-            "status": "Working",
+            "status": "Dead",
             "logo": "",
             "referrer": "https://www.tapmad.com/watch/bangladesh-vs-pakistan-1st-test-live/1132991"
         },
@@ -164,17 +164,9 @@
             "name": "CNN",
             "stream_url": "https://tapmadlive.akamaized.net/tapmadold/cnn.smil/chunklist_w2098598804_b748000_slEng.m3u8",
             "category": "News",
-            "status": "Pending",
+            "status": "Working",
             "logo": "",
             "referrer": "https://www.tapmad.com/watch/cnn/12931"
-        },
-        {
-            "name": "Auto Stream",
-            "stream_url": "https://cdn01.medialive.one:2096/NATGEOFHD/index.m3u8",
-            "category": "Uncategorized",
-            "status": "Pending",
-            "logo": "",
-            "referrer": "https://myco.io/videohome/69bbe6ec4fa9f4565cbe1e11"
         }
     ]
 }
